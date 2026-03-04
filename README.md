@@ -31,4 +31,12 @@ gemini-1.5-flash-latest
 
 ---
 
+---
+
+## Deployed Application
+
+You can try the chatbot here:
+
+https://llmfinaltask-hjxxs58frgkmlucqjkm7ro.streamlit.app/
+
 ## Project Structure
