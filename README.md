@@ -16,7 +16,7 @@ This project uses:
 **Google Gemini API**
 
 Model used:
-gemini-1.5-flash
+gemini-1.5-flash-latest
 
 ---
 
